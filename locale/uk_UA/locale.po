@@ -2315,6 +2315,18 @@ msgstr "Стаття"
 msgid "navigation.skip.issue"
 msgstr "Перейти до поточного випуску"
 
+msgid "submission.upload.instructions"
+msgstr "Завантажте всі файли, які знадобляться редакції, щоб оцінити ваш відправлений матеріал."
+
+msgid "common.addFile"
+msgstr "Додати файл"
+
+msgid "navigation.backTo"
+msgstr "Назад до "Відправлені матеріали»"
+
+msgid "common.titleSeparator"
+msgstr " | "
+
 msgid "navigation.skip.about"
 msgstr "Перейти до інформації про Журнал"
 
